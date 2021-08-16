@@ -1,6 +1,6 @@
 ### VisibleMarkers by Ceddix
 
-VisibleMarkers is a datapack for mapmaker's that works with marker entities. In 1.17 Mojang added this to give all datapack and commandblock freaks an easy and lag-free way to mark positions with entities. However, these are not shown to the client and this can make debugging their techniques harder. For this I created this datapack which gives you the possibility to display markers.
+VisibleMarkers is a Minecraft datapack for mapmaker's that works with marker entities. In 1.17 Mojang added this to give all datapack and commandblock freaks an easy and lag-free way to mark positions with entities. However, these are not shown to the client and this can make debugging their techniques harder. For this I created this datapack which gives you the possibility to display markers.
 
 #### Installation:
 To use the datapack, simply drag this folder into the `datapacks` folder inside your world folder.
